@@ -2,6 +2,7 @@ name: 'CommandDefender'
 version: ${project.version}
 authors: [ 'lokka30' ]
 description: ${project.description}
+folia-supported: true
 
 main: 'me.lokka30.commanddefender.CommandDefender'
 api-version: '1.13'
